@@ -31,17 +31,17 @@ CSE Student | Full-Stack Developer | AI/ML Learner
 > main_stack
 Java, Python, TypeScript, React, Next.js, FastAPI, MySQL
 
-> learning_path
-Java DSA • Backend Engineering • AI/ML • Data Analytics • Scalable Systems
+> current_focus
+Full-Stack Development • Backend Engineering • Java DSA • AI/ML
 ```
 
 ---
 
 ## ⚡ Developer Snapshot
 
-I am a **CSE student** building real-world software products across **frontend, backend, databases and AI/ML**.
+I am a **CSE student** and **full-stack developer** focused on building real-world software products with strong frontend, backend, database and AI/ML foundations.
 
-I enjoy converting ideas into working systems using clean UI, strong backend logic, database design and data-driven thinking.
+I enjoy turning ideas into working systems using clean UI, practical backend logic, structured databases and data-driven thinking.
 
 ```txt
 Frontend        React • Next.js • TypeScript • Tailwind CSS
@@ -61,7 +61,7 @@ Focus           Full-Stack Systems • Backend Engineering • AI/ML
     <td width="50%">
       <h3>🖥️ Full-Stack Development</h3>
       <p>
-        Building modern web apps with clean UI, reusable components,
+        Building modern web applications with clean UI, reusable components,
         API integration and real-world product thinking.
       </p>
     </td>
@@ -289,14 +289,12 @@ Ship, break, debug, repeat.
   <img src="https://img.shields.io/badge/X-ItsSanskar8-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://unstop.com/u/sanskbha15263" target="_blank">
-  <img src="https://img.shields.io/badge/Unstop-Profile-1C4980?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/Unstop-@sanskbha15263-1C4980?style=for-the-badge" />
 
 <br />
 <br />
 
-<img src="assets/pixel-coding-banner.gif" alt="Pixel Coding Banner" width="100%" />
+<img src="./assets/pixel-coding-banner.gif" alt="Pixel Coding Banner" width="100%" />
 
 </div>
 
@@ -305,7 +303,5 @@ Ship, break, debug, repeat.
 <div align="center">
 
 ### ⚡ Full-Stack Development × Backend Engineering × AI/ML Learning
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:2563eb,100:9333ea&section=footer" />
 
 </div>
