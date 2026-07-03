@@ -289,8 +289,6 @@ Ship, break, debug, repeat.
   <img src="https://img.shields.io/badge/X-ItsSanskar8-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/Unstop-@sanskbha15263-1C4980?style=for-the-badge" />
-
 <br />
 <br />
 
