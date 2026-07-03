@@ -313,15 +313,12 @@ Ship, break, debug, repeat.
 
 ---
 
----
-
-## 📬 Let's Connect
-
 <div align="center">
 
-<p>
-  Open to learning, collaborating and building impactful software products.
-</p>
+<img src="./assets/pixel-coding-banner.png" alt="Pixel Coding Banner" width="100%" />
+
+<br />
+<br />
 
 <a href="https://github.com/ItsSanskar8" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ItsSanskar8-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -339,19 +336,6 @@ Ship, break, debug, repeat.
 
 <br />
 <br />
-
-<img src="https://raw.githubusercontent.com/ItsSanskar8/ItsSanskar8/main/assets/impact-pixel-banner.png" alt="Impact Pixel Coding Banner" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Full-Stack Development × Backend Engineering × AI/ML Learning
-
-```txt
-Thanks for visiting. Star some repos if you like my work.
 
 ### ⚡ Full-Stack Development × Backend Engineering × AI/ML Learning
 
