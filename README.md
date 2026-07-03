@@ -313,26 +313,30 @@ Ship, break, debug, repeat.
 
 ---
 
+## 📬 Let's Connect
+
 <div align="center">
 
-<img src="./assets/pixel-coding-banner.png" alt="Pixel Coding Banner" width="100%" />
-
-<br />
-<br />
+<p>
+  Open to learning, collaborating and building impactful software products.
+</p>
 
 <a href="https://github.com/ItsSanskar8" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ItsSanskar8-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=111827" />
 </a>
 
 <a href="https://www.linkedin.com/in/sanskar-bhanderi-6098a4378/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Bhanderi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0F172A" />
 </a>
 
 <a href="https://x.com/ItsSanskar8" target="_blank">
-  <img src="https://img.shields.io/badge/X-ItsSanskar8-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-9333EA?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617" />
 </a>
 
-<img src="https://img.shields.io/badge/Unstop-@sanskbha15263-1C4980?style=for-the-badge" />
+<br />
+<br />
+
+<img src="./assets/pixel-coding-banner.png" alt="Pixel Coding Banner" width="100%" />
 
 <br />
 <br />
@@ -343,4 +347,4 @@ Ship, break, debug, repeat.
 Thanks for visiting. Star some repos if you like my work.
 ```
 
-</div>
+</di>
