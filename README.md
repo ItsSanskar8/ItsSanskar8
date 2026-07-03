@@ -269,7 +269,7 @@ Ship, break, debug, repeat.
 
 ---
 
-## 🤝 Connect
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -277,9 +277,26 @@ Ship, break, debug, repeat.
   Open to learning, collaborating and building real-world software products.
 </p>
 
-<a href="https://github.com/ItsSanskar8">
-  <img src="https://img.shields.io/badge/GitHub-ItsSanskar8-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/ItsSanskar8" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ItsSanskar8-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://www.linkedin.com/in/sanskar-bhanderi-6098a4378/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Bhanderi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/ItsSanskar8" target="_blank">
+  <img src="https://img.shields.io/badge/X-ItsSanskar8-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://unstop.com/u/sanskbha15263" target="_blank">
+  <img src="https://img.shields.io/badge/Unstop-Profile-1C4980?style=for-the-badge" />
+</a>
+
+<br />
+<br />
+
+<img src="assets/pixel-coding-banner.gif" alt="Pixel Coding Banner" width="100%" />
 
 </div>
 
@@ -288,5 +305,7 @@ Ship, break, debug, repeat.
 <div align="center">
 
 ### ⚡ Full-Stack Development × Backend Engineering × AI/ML Learning
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:2563eb,100:9333ea&section=footer" />
 
 </div>
