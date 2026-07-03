@@ -313,6 +313,8 @@ Ship, break, debug, repeat.
 
 ---
 
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -338,13 +340,18 @@ Ship, break, debug, repeat.
 <br />
 <br />
 
-<img src="./assets/impact-pixel-banner.png" alt="Impact Pixel Coding Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/ItsSanskar8/ItsSanskar8/main/assets/impact-pixel-banner.png" alt="Impact Pixel Coding Banner" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
+
+### ⚡ Full-Stack Development × Backend Engineering × AI/ML Learning
+
+```txt
+Thanks for visiting. Star some repos if you like my work.
 
 ### ⚡ Full-Stack Development × Backend Engineering × AI/ML Learning
 
