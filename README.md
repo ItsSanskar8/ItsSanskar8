@@ -19,6 +19,17 @@
 
 </div>
 
+<div align="center">
+
+[Developer Snapshot](#-developer-snapshot) •
+[What I Work On](#-what-i-work-on) •
+[Tech Stack](#️-tech-stack) •
+[Featured Projects](#-featured-projects) •
+[GitHub Stats](#-github-intelligence) •
+[Connect](#-lets-connect)
+
+</div>
+
 ---
 
 ```bash
@@ -47,10 +58,11 @@ I am a **CSE student** and **full-stack developer** focused on building practica
 I enjoy converting ideas into working systems using **clean UI**, **structured backend logic**, **database design**, and **data-driven thinking**.
 
 ```txt
-Frontend        React • Next.js • TypeScript • Tailwind CSS
-Backend         Python • FastAPI • Node.js • Express.js
-Database        MySQL • MongoDB
-Full-Stack      MERN (MongoDB, Express, React, Node.js)
+Frontend        React • Next.js • TypeScript • Tailwind CSS • Redux Toolkit
+Backend (Py)    Python • FastAPI
+Backend (JS)    Node.js • Express.js • JWT Auth
+Database        MySQL • MongoDB (Mongoose)
+Full-Stack      MERN — React (frontend) • Express/Node (backend) • MongoDB (database)
 DSA             Java
 AI/ML & Data    NumPy • Pandas • Matplotlib • Seaborn
 Focus           Full-Stack Systems • Backend Engineering • AI/ML
@@ -132,22 +144,72 @@ Goal            Build real-world scalable products
 <br />
 <br />
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Database (Python)
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi,mysql" />
 
 <br />
 <br />
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Database_Design-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br />
+<br />
+
+### 🧬 MERN Stack (Detailed)
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <p align="center"><b>🎨 Frontend</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p>
+        Component-driven UIs with React, global state via Redux Toolkit,
+        client-side routing with React Router, and Axios for
+        talking to REST APIs.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><b>⚙️ Backend</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=38bdf8" /><br/>
+        <img src="https://img.shields.io/badge/Middleware-2563EB?style=flat-square" />
+      </p>
+      <p>
+        Express.js on Node.js for routing and business logic, custom
+        middleware for validation/error handling, and JWT-based
+        authentication for securing endpoints.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><b>🗄️ Database</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Mongoose_ODM-880000?style=flat-square&logo=mongoose&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Aggregation_Pipelines-13AA52?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Schema_Design-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p>
+        MongoDB as the document store, Mongoose for schema modeling
+        and validation, and aggregation pipelines for querying and
+        shaping data.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br />
 
 ### 🤖 AI/ML & Data Analytics
@@ -290,7 +352,7 @@ flowchart LR
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" colspan="2">
       <h3>📊 Data Analytics Work</h3>
       <p>
         Exploring datasets using NumPy, Pandas, Matplotlib and Seaborn
@@ -299,9 +361,10 @@ flowchart LR
       <p>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
@@ -309,16 +372,25 @@ flowchart LR
 
 ## 📊 GitHub Intelligence
 
+<!--
+  NOTE: these widgets are served by the public github-readme-stats.vercel.app
+  instance, which is shared by thousands of profiles and can hit GitHub API
+  rate limits (shows as a broken-image icon). cache_seconds is set to the max
+  (86400) to reduce how often it has to re-fetch. If it breaks again often,
+  fork https://github.com/anuraghazra/github-readme-stats and deploy your own
+  instance on Vercel, then swap the domain below for your own deployment URL.
+-->
+
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ItsSanskar8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=9333ea&text_color=e5e7eb" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ItsSanskar8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=9333ea&text_color=e5e7eb&cache_seconds=86400" />
 
 <img width="48%" src="https://streak-stats.demolab.com?user=ItsSanskar8&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=9333ea&currStreakLabel=38bdf8" />
 
 <br />
 <br />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsSanskar8&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsSanskar8&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb&cache_seconds=86400" />
 
 </div>
 
@@ -331,6 +403,28 @@ flowchart LR
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsSanskar8&bg_color=020617&color=e5e7eb&line=38bdf8&point=9333ea&area=true&hide_border=true" />
 
 </div>
+
+---
+
+## 🌱 Currently Learning & Next Up
+
+<table>
+  <tr>
+    <td>🧬</td>
+    <td><b>MERN Stack</b></td>
+    <td>Deepening MongoDB, Express, React and Node.js for end-to-end JS projects</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><b>Applied Machine Learning</b></td>
+    <td>Moving from data analysis into model building and deployment</td>
+  </tr>
+  <tr>
+    <td>🏗️</td>
+    <td><b>System Design</b></td>
+    <td>Learning how real-world systems scale, stay resilient, and fail gracefully</td>
+  </tr>
+</table>
 
 ---
 
