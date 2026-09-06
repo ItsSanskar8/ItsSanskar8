@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanskar Bhanderi - GitHub Profile</title>
+    <title>Sanskar Bhanderi - Developer Profile</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -59,7 +59,18 @@
         img {
             max-width: 100%;
         }
+        .mermaid {
+            background-color: #161b22;
+            padding: 16px;
+            border-radius: 6px;
+            text-align: center;
+        }
     </style>
+    <!-- Script to render the Mermaid flowchart in standard HTML -->
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+    </script>
 </head>
 <body>
 
@@ -192,28 +203,30 @@ Goal            Build real-world scalable products</code></pre>
 <hr />
 
 <h2>🚀 Build Pipeline</h2>
-<!-- In HTML, Mermaid requires a script to render, so we represent it as code -->
-<pre><code class="language-mermaid">flowchart LR
-    A[Idea] --&gt; B[Frontend UI]
-    B --&gt; C[Backend API]
-    C --&gt; D[Database]
-    D --&gt; E[Real Product]
-    E --&gt; F[Test]
-    F --&gt; G[Improve]
-    G --&gt; H[Scale]
+<!-- Replaced standard pre/code tags with the proper Mermaid div for HTML rendering -->
+<div class="mermaid">
+flowchart LR
+    A[Idea] --> B[Frontend UI]
+    B --> C[Backend API]
+    C --> D[Database]
+    D --> E[Real Product]
+    E --> F[Test]
+    F --> G[Improve]
+    G --> H[Scale]
 
-    I[AI/ML Learning] --&gt; J[Data Analysis]
-    J --&gt; K[Visualization]
-    K --&gt; E</code></pre>
+    I[AI/ML Learning] --> J[Data Analysis]
+    J --> K[Visualization]
+    K --> E
+</div>
 
 <hr />
 
 <h2>🔥 Current Focus</h2>
 <table>
   <tr>
-    <td>🚀</td>
-    <td><b>Full-Stack Projects</b></td>
-    <td>Building practical web apps from frontend to backend</td>
+    <td width="5%">🚀</td>
+    <td width="25%"><b>Full-Stack Projects</b></td>
+    <td width="70%">Building practical web apps from frontend to backend</td>
   </tr>
   <tr>
     <td>⚙️</td>
@@ -320,11 +333,11 @@ Ship, break, debug, repeat.</code></pre>
     </a>
 
     <br /><br />
-    <!-- This image might not load in regular HTML if the path doesn't exist locally on your computer -->
     <img src="./assets/pixel-coding-banner.png" alt="Pixel Coding Banner" width="100%" />
     <br /><br />
 
     <h3>⚡ Full-Stack Development × Backend Engineering × AI/ML Learning</h3>
+    
     <pre><code>Thanks for visiting. Star some repos if you like my work.</code></pre>
 </div>
 
