@@ -109,7 +109,7 @@ Ship. Debug. Improve. Repeat.</code></pre>
 <hr />
 
 <h2>⚡ Developer Snapshot</h2>
-<p>I am a <strong>CSE student</strong> and <strong>full-stack developer</strong> focused on building practical software products with strong frontend, backend, database and AI/ML foundations.</p>
+<p>I am a <strong>CSE student</strong> and <strong>full-stack developer</strong> focused on building practical software products with strong frontend, backend, database, and AI/ML foundations.</p>
 <p>I enjoy converting ideas into working systems using <strong>clean UI</strong>, <strong>structured backend logic</strong>, <strong>database design</strong>, and <strong>data-driven thinking</strong>.</p>
 
 <pre><code>Frontend        React • Next.js • TypeScript • Tailwind CSS
@@ -126,23 +126,23 @@ Goal            Build real-world scalable products</code></pre>
 <h2>🧠 What I Work On</h2>
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🖥️ Full-Stack Development</h3>
-      <p>Building modern web applications with clean UI, reusable components, routing, API integration and real-world product thinking.</p>
+      <p>Building modern web applications with clean UI, reusable components, routing, API integration, and real-world product thinking.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>⚙️ Backend Engineering</h3>
-      <p>Creating APIs, connecting databases, writing backend logic and learning how scalable systems and computer networks work.</p>
+      <p>Creating APIs, connecting databases, writing backend logic, and learning how scalable systems and computer networks work.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🤖 AI/ML Learning</h3>
-      <p>Exploring machine learning fundamentals, data analysis, visualization and intelligent software applications.</p>
+      <p>Exploring machine learning fundamentals, data analysis, visualization, and intelligent software applications.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>☕ Java DSA</h3>
-      <p>Strengthening problem-solving skills through data structures, algorithms and interview-focused coding practice.</p>
+      <p>Strengthening problem-solving skills through data structures, algorithms, and interview-focused coding practice.</p>
     </td>
   </tr>
 </table>
@@ -154,69 +154,68 @@ Goal            Build real-world scalable products</code></pre>
     <h3>💻 Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript" alt="Languages" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
     <br /><br />
 
     <h3>🎨 Frontend</h3>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" alt="Frontend" />
     <br /><br />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
     <br /><br />
 
     <h3>⚙️ Backend &amp; Database</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,mysql" alt="Backend" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
     <br /><br />
 
     <h3>🤖 AI/ML &amp; Data Analytics</h3>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-    <img src="https://img.shields.io/badge/Machine_Learning-Learning-9333EA?style=for-the-badge&logo=openai&logoColor=white" alt="ML" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine_Learning-9333EA?style=for-the-badge&logo=openai&logoColor=white" />
 
     <br /><br />
 
     <h3>🧰 Tools &amp; Concepts</h3>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Tools" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Computer_Networks-111827?style=for-the-badge&logo=cisco&logoColor=38bdf8" alt="Networks" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Computer_Networks-111827?style=for-the-badge&logo=cisco&logoColor=38bdf8" />
 </div>
 
 <hr />
 
 <h2>🚀 Build Pipeline</h2>
-<!-- Replaced standard pre/code tags with the proper Mermaid div for HTML rendering -->
 <div class="mermaid">
 flowchart LR
-    A[Idea] --> B[Frontend UI]
-    B --> C[Backend API]
-    C --> D[Database]
-    D --> E[Real Product]
-    E --> F[Test]
-    F --> G[Improve]
-    G --> H[Scale]
+    A[Idea] --&gt; B[Frontend UI]
+    B --&gt; C[Backend API]
+    C --&gt; D[Database]
+    D --&gt; E[Real Product]
+    E --&gt; F[Test]
+    F --&gt; G[Improve]
+    G --&gt; H[Scale]
 
-    I[AI/ML Learning] --> J[Data Analysis]
-    J --> K[Visualization]
-    K --> E
+    I[AI/ML Learning] --&gt; J[Data Analysis]
+    J --&gt; K[Visualization]
+    K --&gt; E
 </div>
 
 <hr />
@@ -231,7 +230,7 @@ flowchart LR
   <tr>
     <td>⚙️</td>
     <td><b>Backend Engineering</b></td>
-    <td>Learning APIs, databases, authentication, networks and system design</td>
+    <td>Learning APIs, databases, authentication, networks, and system design</td>
   </tr>
   <tr>
     <td>☕</td>
@@ -241,7 +240,7 @@ flowchart LR
   <tr>
     <td>🤖</td>
     <td><b>AI/ML</b></td>
-    <td>Learning data analysis, ML fundamentals and intelligent systems</td>
+    <td>Learning data analysis, ML fundamentals, and intelligent systems</td>
   </tr>
 </table>
 
@@ -250,41 +249,60 @@ flowchart LR
 <h2>🧩 Featured Projects</h2>
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🐚 Java Shell Project</h3>
-      <p>A custom shell built in Java with command execution, built-in commands, path lookup and shell-like behavior.</p>
+      <p>A custom shell built in Java with command execution, built-in commands, path lookup, and shell-like behavior.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Operating_Systems-111827?style=flat-square" alt="OS" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Operating_Systems-111827?style=flat-square" />
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🛡️ AI Risk Manager</h3>
       <p>An intelligent application built to evaluate, manage, and mitigate risks in AI systems, ensuring compliance and safety through data-driven insights.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🎵 Music Streaming Platform</h3>
-      <p>A full-stack music platform idea using Next.js, FastAPI, MySQL and Redis with scalable product architecture.</p>
+    <td width="50%" valign="top">
+      <h3>🚌 Public Transport Tracker</h3>
+      <p>A React-based route tracking app with route selection, refresh functionality, and live-style updates.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3>📊 Data Analytics Work</h3>
-      <p>Exploring datasets using NumPy, Pandas, Matplotlib and Seaborn to understand patterns, trends and insights.</p>
+    <td width="50%" valign="top">
+      <h3>🎵 Music Streaming Platform</h3>
+      <p>A full-stack music platform idea using Next.js, FastAPI, MySQL, and Redis with scalable product architecture.</p>
       <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data Analytics Work</h3>
+      <p>Exploring datasets using NumPy, Pandas, Matplotlib, and Seaborn to understand patterns, trends, and insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 More Projects</h3>
+      <p>Actively building and experimenting with new technologies. Check out my repositories for more open-source code.</p>
+      <p>
+        <a href="https://github.com/ItsSanskar8?tab=repositories">
+          <img src="https://img.shields.io/badge/View_All_Repositories-020617?style=flat-square&logo=github&logoColor=38bdf8" />
+        </a>
       </p>
     </td>
   </tr>
@@ -320,7 +338,7 @@ Ship, break, debug, repeat.</code></pre>
 
 <h2>📬 Let's Connect</h2>
 <div align="center">
-    <p>Open to learning, collaborating and building impactful software products.</p>
+    <p>Open to learning, collaborating, and building impactful software products.</p>
     
     <a href="https://github.com/ItsSanskar8" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=111827" alt="GitHub" />
