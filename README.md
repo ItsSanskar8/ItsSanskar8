@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Code.+Build.+Learn.+Repeat.;Building+Full-Stack+Web+Applications;React+%2B+Next.js+%2B+FastAPI+%2B+MySQL;Java+DSA+%7C+Backend+Engineering+%7C+AI%2FML;Turning+Ideas+Into+Impactful+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Code.+Build.+Learn.+Repeat.;Building+Full-Stack+Web+Applications;React+%2B+Next.js+%2B+FastAPI+%2B+MySQL;MERN+%7C+Java+DSA+%7C+Backend+Engineering+%7C+AI%2FML;Turning+Ideas+Into+Impactful+Products" />
 
 </div>
 
@@ -29,7 +29,7 @@ Sanskar Bhanderi
 CSE Student | Full-Stack Developer | AI/ML Learner
 
 > main_stack
-Java, Python, TypeScript, React, Next.js, FastAPI, MySQL
+Java, Python, TypeScript, React, Next.js, FastAPI, MERN, MySQL
 
 > current_focus
 Full-Stack Development • Backend Engineering • Java DSA • AI/ML • Data Analytics
@@ -48,8 +48,9 @@ I enjoy converting ideas into working systems using **clean UI**, **structured b
 
 ```txt
 Frontend        React • Next.js • TypeScript • Tailwind CSS
-Backend         Python • FastAPI
-Database        MySQL
+Backend         Python • FastAPI • Node.js • Express.js
+Database        MySQL • MongoDB
+Full-Stack      MERN (MongoDB, Express, React, Node.js)
 DSA             Java
 AI/ML & Data    NumPy • Pandas • Matplotlib • Seaborn
 Focus           Full-Stack Systems • Backend Engineering • AI/ML
@@ -133,15 +134,28 @@ Goal            Build real-world scalable products
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql" />
 
 <br />
 <br />
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Database_Design-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br />
+<br />
+
+### 🧬 MERN Stack
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 <br />
 <br />
@@ -223,6 +237,32 @@ flowchart LR
 <table>
   <tr>
     <td width="50%">
+      <h3>🛡️ SentinelRisk AI — AI Risk Manager</h3>
+      <p>
+        A self-defending, low-latency payment gateway risk engine built for an AI
+        Risk Manager buildathon. Uses a two-tier guardrail architecture — atomic
+        Redis Lua scripts for instant velocity/bot decline (sub-10ms) and an
+        Isolation Forest ML model for anomaly scoring — with a circuit breaker
+        that gracefully falls back to step-up 3DS auth if the model goes down.
+        Includes async audit logging and a live Next.js risk-ops console
+        streamed over WebSockets, tuned for net-rupee savings rather than
+        raw accuracy.
+      </p>
+      <p>
+        <a href="https://github.com/ItsSanskar8/AI-Risk-Manager" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-AI--Risk--Manager-020617?style=flat-square&logo=github&logoColor=38bdf8" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Isolation_Forest-9333EA?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
       <h3>🐚 Java Shell Project</h3>
       <p>
         A custom shell built in Java with command execution, built-in commands,
@@ -233,6 +273,8 @@ flowchart LR
         <img src="https://img.shields.io/badge/Operating_Systems-111827?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🚌 Public Transport Tracker</h3>
       <p>
@@ -244,8 +286,6 @@ flowchart LR
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🎵 Music Streaming Platform</h3>
       <p>
@@ -258,6 +298,8 @@ flowchart LR
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📊 Data Analytics Work</h3>
       <p>
@@ -269,6 +311,7 @@ flowchart LR
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -347,4 +390,4 @@ Ship, break, debug, repeat.
 Thanks for visiting. Star some repos if you like my work.
 ```
 
-</di>
+</div>
